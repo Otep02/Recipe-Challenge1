@@ -4,5 +4,5 @@ As a beginner in this web developing industry, I am so grateful to know about th
 
 This is very very helpful for me. Thank you so much git hub.
 
-
-https://github.com/Otep02/Recipe-Challenge1/blob/main/mobile.jpeg?raw=true
+![mobile display](https://github.com/Otep02/Recipe-Challenge1/blob/main/mobile.jpeg?raw=true)
+![desktop display]()
