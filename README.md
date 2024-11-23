@@ -7,3 +7,5 @@ This is very very helpful for me. Thank you so much git hub.
 ![desktop display](https://github.com/Otep02/Recipe-Challenge1/blob/main/desktop.jpeg?raw=true)
 ![mobile display](https://github.com/Otep02/Recipe-Challenge1/blob/main/mobile.jpeg?raw=true)
 
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/omellette-recipe-3IpEgn0OMb)]
+- Live Site URL: [Add live site URL here]
